@@ -13,7 +13,7 @@ public class Video_11_12_13 {
      *   show hone lagegi.
      *   Note : Code kahi nai jayega local me likha hua, wo as it is wahi rahega.!!
      *
-     *   "git reset" -> gets all changes moved from staging to working directory
+     *   "git reset" -> gets all changes moved from "staging" to "working directory"
      *
      */
     //==========================================================================
@@ -21,8 +21,9 @@ public class Video_11_12_13 {
      *  Commit to Working director.
      *   =========
      *   Now suppose you made some changes and by mistake committed the code [refer the Step3.PNG]
-     *   So now you want to move form commit to working directory >>
+     *   So now you want to move form commit to staging directory >>
      *   need to put this command --> "git reset --soft HEAD~1" [Refer the Step_4.PNG]
+		 So it will remove the commit and fallback to staging area
      *
      *   So all the changes now in staging area.!!! [Step_5.PNG]
      */

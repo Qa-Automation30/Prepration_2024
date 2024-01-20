@@ -1,5 +1,7 @@
 package Git_Tutorial_RahulShetty.Section_4;
 
+// No need to watch it again. Notes are enough
+
 public class Video_9_10 {
     /**
      * So now how do you know on which branch you are ->
